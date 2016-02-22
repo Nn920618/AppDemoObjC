@@ -1,0 +1,21 @@
+//
+//  BaseDemoConfig.pch
+//  BaseDemo
+//
+//  Created by Nn on 16/2/19.
+//  Copyright © 2016年 Nn. All rights reserved.
+//
+
+#ifndef BaseDemoConfig_pch
+#define BaseDemoConfig_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "BaseDemoLayoutExtend.h"
+#import "BaseDemoTableViewExtend.h"
+#import "BaseDemoTableViewContent.h"
+#import "BaseDemoTableViewCell.h"
+#import "TextSizeExtend.h"
+
+#endif /* BaseDemoConfig_pch */
